@@ -56,16 +56,16 @@ namespace UniverseRepo.Controllers
         [ValidateAntiForgeryToken]
 
         //Commenting OUT MANUALLY
-        // public async Task<IActionResult> Create([Bind("Id,universe_Name,created_by,description")] Universe universe)
-        // {
-        //     if (ModelState.IsValid)
-        //     {
-        //         _context.Add(universe);
-        //         await _context.SaveChangesAsync();
-        //         return RedirectToAction(nameof(Index));
-        //     }
-        //     return View(universe);
-        // }
+        public async Task<IActionResult> Create([Bind("Id,universe_Name,created_by,description")] Models.Universe universe)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Add(universe);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(universe);
+        }
 
         //END OF MANUAL COMMENT
 
@@ -92,35 +92,35 @@ namespace UniverseRepo.Controllers
         [ValidateAntiForgeryToken]
 
         //Commenting OUT MANUALLY
-        // public async Task<IActionResult> Edit(int id, [Bind("Id,universe_Name,created_by,description")] Universe universe)
-        // {
-        //     if (id != universe.Id)
-        //     {
-        //         return NotFound();
-        //     }
+        public async Task<IActionResult> Edit(int id, [Bind("Id,universe_Name,created_by,description")] Models.Universe universe)
+        {
+            if (id != universe.Id)
+            {
+                return NotFound();
+            }
 
-        //     if (ModelState.IsValid)
-        //     {
-        //         try
-        //         {
-        //             _context.Update(universe);
-        //             await _context.SaveChangesAsync();
-        //         }
-        //         catch (DbUpdateConcurrencyException)
-        //         {
-        //             if (!UniverseExists(universe.Id))
-        //             {
-        //                 return NotFound();
-        //             }
-        //             else
-        //             {
-        //                 throw;
-        //             }
-        //         }
-        //         return RedirectToAction(nameof(Index));
-        //     }
-        //     return View(universe);
-        // }
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(universe);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!UniverseExists(universe.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            return View(universe);
+        }
 
         //END OF MANUAL COMMENT
 
