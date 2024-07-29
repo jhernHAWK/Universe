@@ -5,12 +5,56 @@
       "PackagePath": "staticwebassets\\Universe.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\css\\carousel.css"
+    },
+    {
       "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\aliens navbar.jfif",
+      "PackagePath": "staticwebassets\\images\\aliens navbar.jfif"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\andromeda-galaxy.jpg",
+      "PackagePath": "staticwebassets\\images\\andromeda-galaxy.jpg"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\avatar navbar.jfif",
+      "PackagePath": "staticwebassets\\images\\avatar navbar.jfif"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\hp.jfif",
+      "PackagePath": "staticwebassets\\images\\hp.jfif"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\jp navbar.png",
+      "PackagePath": "staticwebassets\\images\\jp navbar.png"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\lotr navbar.jfif",
+      "PackagePath": "staticwebassets\\images\\lotr navbar.jfif"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\marvel navbar.jfif",
+      "PackagePath": "staticwebassets\\images\\marvel navbar.jfif"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\red rising navbar.jpg",
+      "PackagePath": "staticwebassets\\images\\red rising navbar.jpg"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\star wars navbar.jfif",
+      "PackagePath": "staticwebassets\\images\\star wars navbar.jfif"
+    },
+    {
+      "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\images\\worldofwonderheader.png",
+      "PackagePath": "staticwebassets\\images\\worldofwonderheader.png"
     },
     {
       "Id": "c:\\Users\\JosephHernandez\\Universe\\Universe\\wwwroot\\js\\site.js",
