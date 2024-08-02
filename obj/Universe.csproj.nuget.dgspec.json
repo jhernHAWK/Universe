@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj": {}
+    "C:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj": {}
   },
   "projects": {
-    "c:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj": {
+    "C:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj",
+        "projectUniqueName": "C:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj",
         "projectName": "Universe",
-        "projectPath": "c:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj",
+        "projectPath": "C:\\Users\\JosephHernandez\\Universe\\Universe\\Universe.csproj",
         "packagesPath": "C:\\Users\\JosephHernandez\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\JosephHernandez\\Universe\\Universe\\obj\\",
+        "outputPath": "C:\\Users\\JosephHernandez\\Universe\\Universe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JosephHernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",

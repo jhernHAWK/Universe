@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Universe
 build_property.RootNamespace = Universe
-build_property.ProjectDir = c:\Users\JosephHernandez\Universe\Universe\
+build_property.ProjectDir = C:\Users\JosephHernandez\Universe\Universe\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\JosephHernandez\Universe\Universe
+build_property.MSBuildProjectDirectory = C:\Users\JosephHernandez\Universe\Universe
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Characters/Create.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Characters/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Characters/Delete.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Characters/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Characters/Details.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Characters/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Characters/Edit.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Characters/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Characters/Index.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Characters/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Home/Index.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Home/Privacy.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Shared/Error.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Universes/Create.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Universes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Universes/Delete.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Universes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Universes/Details.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Universes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Universes/Edit.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Universes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Universes/Index.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Universes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/_ViewImports.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/_ViewStart.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/JosephHernandez/Universe/Universe/Views/Shared/_Layout.cshtml]
+[C:/Users/JosephHernandez/Universe/Universe/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ilo8huivp1
